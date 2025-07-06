@@ -69,22 +69,8 @@ pip install numpy
 
 ---
 
-## ▶️ Menjalankan Program
-
-```bash
-python JawaTengah.py
-python Yogyakarta.py
-```
-
----
-
 ## ✍️ Author
 
 **MBAHSINGO22**  
 🔗 [GitHub](https://github.com/MBAHSINGO22)
 
----
-
-## 📄 License
-
-Lisensi proyek ini adalah MIT. Bebas digunakan untuk pembelajaran, riset, dan pengembangan lebih lanjut.
